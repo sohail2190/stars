@@ -1,0 +1,18 @@
+input{
+   padding: 7px;
+   font-size: 13px;
+   background-color: rgba(32, 178, 171, 0.407);
+   color: rgb(250, 251, 249);
+   margin: 5px;
+}
+h1{
+    color: brown;
+    border: 3px dashed green;
+    margin: 15px 10%;
+    padding: 10px;
+    background-color: darkgray;
+}
+button{
+    padding: 9px;
+    border: outset rgb(200, 255, 0);
+}
